@@ -15,9 +15,9 @@ class ViewController: UIViewController {
         
         arraysPlayground()
         
-        setsPlayground()
+        //setsPlayground()
         
-        dictionariesPlayground()
+        //dictionariesPlayground()
     }
 
 
