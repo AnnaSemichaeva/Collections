@@ -9,4 +9,6 @@ import Foundation
 
 public func arraysPlayground() {
     
+    //1) вывести массив в виде массива
+    
 }
