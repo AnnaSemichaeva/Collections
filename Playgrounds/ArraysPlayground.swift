@@ -40,6 +40,13 @@ public func arraysPlayground() {
     
     print(someInts)
     
-    //5)
+    //5)заменить элемент стоящий под индексом 0 на 333
+    
+    print("---5)заменить элемент стоящий под индексом 0 на 333---")
+    
+    print(someInts[0])
+    
+    someInts[0] = 333
+    print(someInts[0])
     
 }
