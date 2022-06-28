@@ -21,6 +21,20 @@ public func dictionariesPlayground () {
     
     print(someDictionary)
     
+    //вывести ключи словаря
+    
+    print("---вывести ключи словаря---")
+    for someKeyInDictionary in someDictionary.keys{
+        print(someKeyInDictionary)
+    }
+    
+    //вывести значения словаря
+    
+    print("---вывести значения словаря---")
+    for someValueInDictionary in someDictionary.values{
+        print(someValueInDictionary)
+    }
+    
     
     
     
