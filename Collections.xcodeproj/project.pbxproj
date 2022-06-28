@@ -16,6 +16,8 @@
 		63A73B962862651300A6A694 /* SetsPlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63A73B952862651300A6A694 /* SetsPlayground.swift */; };
 		63A73B992862657F00A6A694 /* ArraysPlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63A73B982862657F00A6A694 /* ArraysPlayground.swift */; };
 		63A73B9B286265AF00A6A694 /* DictionariesPlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63A73B9A286265AF00A6A694 /* DictionariesPlayground.swift */; };
+		63A73B9D286B695600A6A694 /* JustPlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63A73B9C286B695600A6A694 /* JustPlayground.swift */; };
+		63A73B9F286B6AE900A6A694 /* CodeExecutionClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63A73B9E286B6AE900A6A694 /* CodeExecutionClass.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +32,8 @@
 		63A73B952862651300A6A694 /* SetsPlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SetsPlayground.swift; sourceTree = "<group>"; };
 		63A73B982862657F00A6A694 /* ArraysPlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArraysPlayground.swift; sourceTree = "<group>"; };
 		63A73B9A286265AF00A6A694 /* DictionariesPlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DictionariesPlayground.swift; sourceTree = "<group>"; };
+		63A73B9C286B695600A6A694 /* JustPlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JustPlayground.swift; sourceTree = "<group>"; };
+		63A73B9E286B6AE900A6A694 /* CodeExecutionClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodeExecutionClass.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +84,8 @@
 				63A73B982862657F00A6A694 /* ArraysPlayground.swift */,
 				63A73B952862651300A6A694 /* SetsPlayground.swift */,
 				63A73B9A286265AF00A6A694 /* DictionariesPlayground.swift */,
+				63A73B9C286B695600A6A694 /* JustPlayground.swift */,
+				63A73B9E286B6AE900A6A694 /* CodeExecutionClass.swift */,
 			);
 			path = Playgrounds;
 			sourceTree = "<group>";
@@ -155,7 +161,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				63A73B9F286B6AE900A6A694 /* CodeExecutionClass.swift in Sources */,
 				63A73B992862657F00A6A694 /* ArraysPlayground.swift in Sources */,
+				63A73B9D286B695600A6A694 /* JustPlayground.swift in Sources */,
 				63A73B862861131800A6A694 /* ViewController.swift in Sources */,
 				63A73B822861131800A6A694 /* AppDelegate.swift in Sources */,
 				63A73B842861131800A6A694 /* SceneDelegate.swift in Sources */,
