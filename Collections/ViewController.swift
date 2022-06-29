@@ -15,11 +15,17 @@ class ViewController: UIViewController {
         
         //arraysPlayground()
         
-        setsPlayground()
+        //setsPlayground()
         
         //dictionariesPlayground()
         
         //justPlayground()
+        
+        //multiplication(5)
+        
+        //AnyinCode()
+        
+        AnyaTest()
     }
 
 
